@@ -81,7 +81,7 @@
 </details> 
   
 <details>
-<summary>⌛ Metodologias Ágeis</summary>
+<summary>⌛ Agile Methodologies</summary>
 <br> 
 <img src="https://img.shields.io/badge/-Kanban-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Scrum-orange?style=for-the-badge">
