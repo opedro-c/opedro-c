@@ -19,7 +19,7 @@
 <br>
 
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 <div>
 <details>
 <summary>⚙️ Back-end</summary>
