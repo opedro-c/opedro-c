@@ -31,6 +31,14 @@
 </details>
 
 <details>
+<summary>🔁 Testing</summary>
+<br>
+<img src="https://img.shields.io/badge/Cucumber-white?style=for-the-badge&logo=cucumber&logoColor=23D96C">
+<img src="https://img.shields.io/badge/Selenium-9B230?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Robot Framework-009a91?style=for-the-badge&logo=robotframework&logoColor=white">
+</details>
+
+<details>
 <summary>🔑 Versioning tools</summary>
 <br> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -89,6 +97,7 @@
   
  <details>
 <summary>📦 Office pack</summary>
+<br>
 <img src="https://img.shields.io/badge/Libre_Office-FFFFFF?style=for-the-badge&logo=libreoffice&logoColor=black">
 <img src="https://img.shields.io/badge/Only_Office-2B579A?style=for-the-badge&logo=onlyoffice&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-B7472A?style=for-the-badge&logo=microsoft-office&logoColor=white">
