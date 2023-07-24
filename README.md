@@ -12,12 +12,11 @@
 
 <div>
 <a href="https://github.com/opedro-c" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://instagram.com/opedro_c"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pedro-costa-06a82422b"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/5585997962751"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:pedroc_aragao@outlook.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </div> 
-<br>
 
+<br>
 
 ## Tools and Technologies
 <div>
@@ -43,7 +42,7 @@
 <br> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=#FCA326">
 </details>
   
 <details>
@@ -67,8 +66,8 @@
 <summary>👨‍💻 IDEs</summary>
 <br> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-9762C3?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/DataGrip-1B6AC6?style=for-the-badge&logo=datagrip&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2D2252?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Datagrip-1B6AC6?style=for-the-badge&logo=datagrip&logoColor=white">
 <img src="https://img.shields.io/badge/Vim-019331?style=for-the-badge&logo=vim&logoColor=white">
 </details> 
 
@@ -104,20 +103,6 @@
 </details>
 
 <br>
-
-## GitHub Statistics <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=40>
-
-<div>
-  
-<a href="https://github.com/opedro-c">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedro-c&layout=compact&langs_count=7&theme=omni" height="180em"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=opedro-c&show_icons=true&theme=omni&include_all_commits=true&count_private=true" height="180em"/>
-</div>
-</a>
-  
-<br>
-
 
 <div align="center">
 
