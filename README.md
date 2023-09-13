@@ -5,7 +5,7 @@
 <br>
 
 - 🎯 My goal is to become a reference in web development;
-- 🔭 I'm currently working as **Software Test Engineer**;
+- 🔭 I'm currently working as **Full Stack Developer**;
 - 🌱 I'm an **Information Technology** undergraduate student at **Digital Metropolis Institute**;
 - 🤖 Currently looking for a job as Back-End Developer;
 - 📫 How to reach me: 
@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/spring-6CB52D?style=for-the-badge&logo=spring&logoColor=white">
+
 </details>
 
 <details>
