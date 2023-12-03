@@ -5,9 +5,8 @@
 <br>
 
 - 🎯 My goal is to become a reference in web development;
-- 🔭 I'm currently working as **Full Stack Developer**;
+- 🔭 I'm currently working as **Back-End Developer**;
 - 🌱 I'm an **Information Technology** undergraduate student at **Digital Metropolis Institute**;
-- 🤖 Currently looking for a job as Back-End Developer;
 - 📫 How to reach me: 
 
 <div>
