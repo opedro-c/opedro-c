@@ -1,4 +1,4 @@
-# Pedro Aragão
+# Pedro Costa
 ### Welcome to my profile!
 
 I'm currently working as **Software Test Engineer** and studying **Information Technology** at **Digital Metropolis Institute**; 
