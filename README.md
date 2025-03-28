@@ -11,7 +11,7 @@ Throughout my professional career, I have had the opportunity to work on project
 <div>
 <a href="https://github.com/opedro-c" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pedro-costa-06a82422b"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-<a href="mailto:pedroc_aragao@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+<a href="mailto:opedrocosta@pm.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff"></a>
 </div> 
 
 ### Areas of interest
