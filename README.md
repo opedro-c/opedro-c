@@ -9,7 +9,7 @@ Throughout my professional career, I have had the opportunity to work on project
 
 ### How to reach me
 <div>
-<a href="mailto:opedrocosta@pm.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff"></a>
+<a href="mailto:pedro-costa@tuta.io"><img src="https://img.shields.io/badge/Mail-840010?logo=gmail&logoColor=fff"></a>
 <a href="https://floss.social/@pedro_aragao"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff"></a>
 </div> 
 
